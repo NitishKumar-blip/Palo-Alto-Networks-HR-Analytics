@@ -46,3 +46,6 @@ Predictive Attrition Modeling
 Employee Performance Forecasting
 Real-time Data Integration
 Advanced HR KPI Monitoring
+
+screenshot / Demo
+example : ![Dashboard]()
