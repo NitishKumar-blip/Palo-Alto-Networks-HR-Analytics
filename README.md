@@ -48,4 +48,4 @@ Real-time Data Integration
 Advanced HR KPI Monitoring
 
 screenshot / Demo
-example : ![Dashboard]()
+example : ![Dashboard](https://github.com/NitishKumar-blip/Palo-Alto-Networks-HR-Analytics/blob/main/Snapshot.png)
