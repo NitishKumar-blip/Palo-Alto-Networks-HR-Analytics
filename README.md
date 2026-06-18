@@ -3,11 +3,11 @@ Creating of dashboard using given csv file for  data driven decision for the com
 
 Examining the Cause of Attrition in the Company.
 
-OVERVIEW
+OVERVIEW :
 
 The HR Analytics Dashboard is a data visualization and analysis project designed to help organizations understand workforce trends, employee attrition, job satisfaction, performance, and other key HR metrics. The dashboard provides interactive visualizations and actionable insights for HR professionals and management.
 
-FEATURES
+FEATURES :
 
 Employee Attrition Analysis
 Department-wise Employee Distribution
@@ -17,9 +17,17 @@ Age Group Analysis
 Salary and Compensation Insights
 Performance Evaluation Metrics
 Interactive Filters and Visualizations
-TECHNOLOGY USED
 
-Python Pandas NumPy Matplotlib Seaborn Tableau Dataset
+
+TECHNOLOGY USED :
+
+Python 
+Pandas
+NumPy 
+Matplotlib 
+Seaborn 
+Tableau 
+Power Bi
 
 The dataset contains employee-related information such as:
 
@@ -32,7 +40,8 @@ Monthly Income
 Years at Company
 Job Satisfaction
 Attrition Status
-KEY INSIGHTS
+
+KEY INSIGHTS :
 
 Identify factors contributing to employee attrition.
 Analyze employee satisfaction levels.
